@@ -1,0 +1,5 @@
+streamlit
+streamlit-chat
+langchain-community
+pillow==10.3.0
+fastembed
